@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **PHP, JavaScript, Java and C#**
 
-<p align="left"> <a href="https://twitter.com/duooincurr" target="blank"><img src="https://img.shields.io/twitter/follow/duooincurr?logo=twitter&style=for-the-badge" alt="duooincurr" /></a> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

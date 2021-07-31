@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aiden</h1>
 <h3 align="center">I am a student developer from the United Kingdom</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axdxn&label=Profile%20views&color=0e75b6&style=flat" alt="axdxn" /> </p>
+- 🔭 I’m currently working on **C# projects for College**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axdxn" alt="axdxn" /></a> </p>
+- 🌱 I’m currently learning **PHP, JavaScript, Java and C#**
 
 <p align="left"> <a href="https://twitter.com/duooincurr" target="blank"><img src="https://img.shields.io/twitter/follow/duooincurr?logo=twitter&style=for-the-badge" alt="duooincurr" /></a> </p>
 
-- 🔭 I’m currently working on **C# projects**
-
-- 🌱 I’m currently learning **PHP, JavaScript, Java and C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
